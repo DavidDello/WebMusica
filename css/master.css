@@ -1,0 +1,129 @@
+.music-body
+{
+  background: #000000;
+}
+.container-fluid
+{
+  padding: 0 !important;
+  margin-left: 10% !important;
+  margin-right: 10% !important;
+}
+.navbar-inverse {
+  background-color: #FFFFFF;
+  border: none;
+}
+.logotipo
+{
+  height: 50px;
+  margin: 10px;
+}
+.redes-sociales {
+  height: 100%;
+  text-align: right;
+  margin-top: 6%;
+  margin-right: 5px;
+}
+.img-social {
+  width: 40px;
+  height: 40px;
+}
+.body-page
+{
+  background-color: #FFFFFF;
+  border: none;
+  border-radius: 5px 5px;
+}
+.publicacion
+{
+  margin:2.5%;
+  background-color: rgba(0, 100, 255, 0.4);
+  border-radius: 5px 5px;
+}
+.img-publicacion
+{
+  width: 95%;
+  min-height: 160px;
+  margin-left: 2.5%;
+  margin-right:  2.5%;
+  margin-top: 6.5%;
+  margin-bottom: 6.5%;
+}
+.img-comentario
+{
+  width: 100%;
+}
+.form-group
+{width: 100% !important;}
+  .input-group-prepend,.searchw
+  {
+    float:left;
+    height: 36px;
+  }
+  .img-search
+  {
+    width: 15px;
+  }
+  .search-content
+  {
+    background-color: rgba(0, 100, 255, 0.4);
+    margin-top:20px;
+    margin-right :20px!important;
+      border-radius: 5px 5px;
+  }
+  .mar
+  {
+    margin-top: 20px;
+  }
+@media (max-width:768px)
+{
+  *
+  {
+    margin: 0% !important;
+    padding: 0%  !important;
+  }
+  .music-body
+  {
+    background: #FFFFFF;
+  }
+  .logo-page
+  {
+    text-align: center;
+  }
+  .redes-sociales
+  {
+    text-align: center;
+    margin-top: 3%;
+    margin-right: 0px;
+    margin-bottom: 2%;
+  }
+  .container-fluid
+  {
+    margin: 0% !important;
+    padding: 0%  !important;
+  }
+  div h3
+  {
+    text-align: center;
+  }
+  .img-comentario
+  {
+    float: left;
+    width: 20%;
+    height: 50px;
+  }
+  .form-group
+  {width: 80% !important;
+  float: left;}
+  .img-publicacion
+  {
+    width: 95%!important;
+    margin-left: 2.5%!important;
+    margin-right:  2.5%!important;
+    margin-top: 6.5%!important;
+    margin-bottom: 6.5%!important;
+  }
+  .publicacion, .publicacion p
+  {
+    margin:2.5%!important;
+  }
+  .coment{padding: 2.5%!important;}
